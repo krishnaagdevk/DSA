@@ -20,6 +20,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishnaagdevk/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/krishnaagdevk/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/krishnaagdevk/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/krishnaagdevk/DSA/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krishnaagdevk/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
